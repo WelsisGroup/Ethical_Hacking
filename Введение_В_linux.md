@@ -605,21 +605,3 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ...
 ```
 
-# [in progress]
-
-to do notes 
-
-1) Ubuntu - basics
-    - about Linux
-    - how to operate
-    - basic commands
-
-2) Kali - advanced
-    - about Kali
-    - security tools
-    - advanced commands
-
-3) Bonus part
-    - tmux, vim.
-    - cool commands like terminal weather, neofetch
----
